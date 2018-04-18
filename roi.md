@@ -1,6 +1,6 @@
-#Règlement d'Ordre Intérieur
+# Règlement d'Ordre Intérieur
 
-##Titre I : Les membres
+## Titre I : Les membres
 
 **Art. 1** La qualité de membre de l’association implique l’adhésion totale au présent règlement d’ordre intérieur.
 
@@ -14,11 +14,11 @@
 
 Peut être suspendu tout membre qui aurait commis des dégradations volontaires des biens de l’association, qui aurait procédé à des malversations, des détournements de fonds ou des faux en écriture, qui aurait porté atteinte à l’image de l’association ou à l’honneur de ses membres.
 
-##Titre II : Convocation aux Assemblées Générales
+## Titre II : Convocation aux Assemblées Générales
 
 **Art. 5** Pour un maximum de visibilité, les convocations aux Assemblées Générales sont affichées aux valves du Département d’informatique de l’Université Libre de Bruxelles, envoyées par mailing list (cercle-informatique@cerkinfo.be), inscrites sur le forum internet du Cercle Informatique (www.cerkinfo.be) et sur la page facebook du Cercle Informatique (https://www.facebook.com/cerkinfo).
 
-##Titre III : Composition du  Conseil d’Administration
+## Titre III : Composition du  Conseil d’Administration
 
 **Art. 6** Le Conseil d’Administration se compose de 19 personnes :
 
@@ -39,7 +39,7 @@ Peut être suspendu tout membre qui aurait commis des dégradations volontaires 
 16. un délégué cours
 17. un délégué hackerspace
 
-##Titre IV : Des conditions et modalités d'élection du Conseil d’Administration
+## Titre IV : Des conditions et modalités d'élection du Conseil d’Administration
 
 **Art. 7**
 
@@ -101,7 +101,7 @@ c. En cas d’égalité entre les candidats après le deuxième tour de scrutin,
 
 **Art. 13 :** Si, après l’Assemblée Générale ordinaire, des postes dans le Conseil d’Administration restent vacants, une nouvelle Assemblée Générale doit être convoquée après un délai minimum de 15 jours.
 
-##Titre V : Démission et exclusion des administrateurs
+## Titre V : Démission et exclusion des administrateurs
 
 **Art. 14 :**
 
@@ -111,11 +111,11 @@ b. Est réputé démissionnaire de sa fonction dans le Bureau de l’association
 
 c. Est réputé démissionnaire de sa fonction dans le Conseil d’Administration, l’administrateur n’étant pas inscrit comme élève régulier d’un établissement scolaire de type supérieur. Cette mesure est d’application à compter du 20 septembre de l’année académique suivant la prise de fonction, et ce jusqu’à la prochaine Assemblée Générale ordinaire.
 
-##Titre VI : Convocation du Conseil d’Administration
+## Titre VI : Convocation du Conseil d’Administration
 
 **Art. 15 :** Le Conseil d’Administration se réunit au moins dix fois par an à l'initiative de son président. Néanmoins, une réunion peut être convoquée sans l’initiative du président de cercle si au moins trois membres l'estiment nécessaire.
 
-##Titre VII : Des mouvements financiers
+## Titre VII : Des mouvements financiers
 
 **Art. 16 :** Le remboursement de toute dépense par le trésorier est subordonné à la justification de cette dépense et à la production d'une note de frais de préférence sous forme de facture, sauf cas exceptionnel autorisé au préalable par le Conseil d’Administration.
 
