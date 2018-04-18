@@ -1,6 +1,6 @@
-#Statuts
+# Statuts
 
-##Titre I : Généralités
+## Titre I : Généralités
 
 **Art. 1 - Dénomination** 
   
@@ -20,7 +20,7 @@ b. Pour arriver à ses fins, l’association peut user de tous les moyens dont d
 
 La durée de l'association est illimitée et peut être dissoute à tout moment.
 
-##Titre II : Les membres
+## Titre II : Les membres
 
 **Art. 5 - Membres Fondateurs** 
 
@@ -38,7 +38,7 @@ b. La qualité de membre de l’association implique l’adhésion totale aux pr
 
 c. Le nombre de membres effectifs n’est pas limité, sans pouvoir être inférieur à trois.
 
-###Admission
+### Admission
 
 **Art. 7 :** Toute personne désirant devenir membre effectif ou adhérent de l’association doit en adresser la demande, orale ou écrite, au secrétaire. Cette demande comprendra l’adhésion au principe du Libre Examen. Le Conseil d’Administration statue sans appel sur la demande conformément aux prescrits du Règlement d’Ordre Intérieur.
 
@@ -52,7 +52,7 @@ c. Est membre adhérant toute personne qui aura été admise en cette qualité p
 
 d. Est membre d'honneur toute personne admise en cette qualité par le Conseil d’Administration et ayant accepté cette distinction. Le membre d’honneur ne peut pas consulter les documents comptables et ne dispose pas du droit de vote. Il dispose néanmoins d’une voix consultative.
 
-###Démission ou exclusion d’un membre
+### Démission ou exclusion d’un membre
 
 **Art. 9 :**
 
@@ -68,7 +68,7 @@ a. Le Conseil d’Administration peut suspendre, jusqu’à décision de l’Ass
 
 b. L’exclusion d’un membre ne peut être prononcée que par l’Assemblée Générale, le membre ayant été invité à présenter ses moyens de défense. La décision de l’Assemblée Générale est sans appel. Si l’exclu le souhaite, il pourra néanmoins recouvrir la qualité de membre durant l'année académique qui suit celle de son exclusion sous réserve de l'accord du Conseil d’Administration.
 
-###Droits
+### Droits
 
 **Art. 11 :**
 
@@ -78,20 +78,20 @@ b. Le membre exclu n'a pas droit au remboursement de sa cotisation.
 
 c. Il ne peut réclamer ou requérir ni relevé ou reddition de compte, ni apposition des scellés, ni inventaire.
 
-###Le registre des membres
+### Le registre des membres
 
 **Art. 12 :** Toutes les décisions d'admission, de démission des membres sont consignées dans un registre des membres par le Conseil d’Administration. Ce registre est conservé au siège de l'association où tous les membres ainsi que les tiers intéressés peuvent en prendre connaissance, mais sans déplacement du registre.
 
-###La consultation des documents
+### La consultation des documents
 
 **Art. 13 :** Tout membre peut consulter les documents relatifs à l’administration de l’ASBL au siège social de l’ASBL après demande écrite préalable adressée au Conseil d’Administration et précisant les documents auxquels le membre souhaite avoir accès. Les parties conviennent d’une date de consultation des documents, cette date étant fixée dans un délai de deux mois à partir de la réception de la demande.
 
-###Cotisation
+### Cotisation
 
 **Art. 14 :** La qualité de membre – effectif et adhérent - est subordonnée au règlement d’une cotisation annuelle fixée par le Conseil d’Administration. La cotisation ne peut être supérieure à 25 euros ni inférieure à 5 euros. Les modalités sont fixées dans le Règlement d’Ordre Intérieur.
 
 
-##Titre III : Le Fonctionnement de l’Assemblée Générale
+##  Titre III : Le Fonctionnement de l’Assemblée Générale
 
 **Art. 15 :** L’Assemblée Générale est composée des membres effectifs et des membres représentés. Les membres adhérents et les membres d’honneur doivent y être explicitement invités. L’assemblée est présidée par le président du Conseil d’Administration ou, en cas d’absence justifiée du président, par un membre du bureau.
 
@@ -132,7 +132,7 @@ a. Il doit être tenu, chaque année, une Assemblée Générale ordinaire (dite 
 **Art. 22 :** Les décisions de l’assemblée sont consignées dans un registre signé par le président et un autre administrateur. Ce registre se trouve au siège social et est accessible à tout membre  désirant le consulter, sauf en ce qui concerne le volet comptable qui sera accessible aux seuls membres effectifs.
 
 
-##Titre IV: Les Pouvoirs de l’Assemblée  Générale
+## Titre IV: Les Pouvoirs de l’Assemblée  Générale
 
 **Art. 23 :** L’Assemblée Générale possède les pouvoirs qui lui sont expressément reconnus par la loi ou les présents statuts. Sont de sa compétence :
 
@@ -149,7 +149,7 @@ a. Il doit être tenu, chaque année, une Assemblée Générale ordinaire (dite 
 Tout ce qui n’est pas attribué par la loi ou les présents statuts à l’Assemblée Générale relève de la compétence du Conseil d’Administration.
 
 
-##Titre V: La Composition du conseil d’administration
+## Titre V: La Composition du conseil d’administration
 
 **Art. 24 :**
 
@@ -179,7 +179,7 @@ f. Est réputé démissionnaire de sa fonction dans le Conseil d’Administratio
 
 g. L’administrateur démissionnaire peut garder sa qualité de membre effectif si le Conseil d’Administration l’accepte.
 
-##Titre VI: Le Fonctionnement du Conseil d’Administration
+## Titre VI: Le Fonctionnement du Conseil d’Administration
 
 **Art. 27 :**
 
@@ -208,7 +208,7 @@ b. Néanmoins, le bureau peut agir seul pour toutes les affaires urgentes, c’e
 **Art. 31 :** Les décisions du Conseil d’Administration sont consignées sous la forme de procès-verbaux signés par le président et le secrétaire et inscrites dans un registre. Ce registre est conservé au siège de l'association où tous les membres peuvent en prendre connaissance, mais sans déplacement du registre.
 
 
-##Titre VII: Les Pouvoirs Dévolus au  Conseil d’Administration
+## Titre VII: Les Pouvoirs Dévolus au  Conseil d’Administration
 
 **Art. 32 :**
 
@@ -222,12 +222,12 @@ b. Le Conseil d’Administration exerce son pouvoir collégialement.
 **Art. 34 :** L’association est responsable des fautes imputables soit à ses préposés, soit aux organes par lesquels s’exerce sa volonté mais ses membres ne contractent aucune obligation personnelle relative aux engagements de l'association.
 
 
-##Titre VIII : Des conditions et modalités d'élection du Conseil d’Administration
+## Titre VIII : Des conditions et modalités d'élection du Conseil d’Administration
 
 **Art. 35 :** Les membres du Conseil d’Administration sont élus pour 12 mois par l'Assemblée Générale ordinaire. Néanmoins, une Assemblée Générale extraordinaire peut être convoquée afin de pourvoir au remplacement d'un administrateur démissionnaire ou à nommer un administrateur à  un poste resté vacant après l’Assemblée Générale ordinaire.
 
 
-##Titre IX : Les Comptes et le Budget
+## Titre IX : Les Comptes et le Budget
 
 **Art. 36 :** Le Conseil d’Administration est responsable de la gestion financière de l’association. Les revenus de l'association proviennent des cotisations, des dons et de toute autre source légale. Les avoirs en monnaie doivent être déposés sur un compte en banque au nom de l'association.
 
@@ -237,7 +237,7 @@ a. L’exercice social commence le lendemain du jour de l’Assemblée Général
 b. L’Assemblée Générale peut, en cas de refus du bilan financier, nommer deux vérificateurs aux comptes qui lui feront rapport.
 
 
-##Titre X: Dissolution, liquidation de l’association
+## Titre X: Dissolution, liquidation de l’association
 
 **Art. 38 :** L'association ne peut être dissoute que par une décision prise par l'Assemblée Générale.
 
