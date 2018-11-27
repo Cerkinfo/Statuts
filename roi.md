@@ -65,9 +65,9 @@ Le Conseil d'Administration du Hackerspace UrLab est représenté par les Délé
 
 **Art. 7**
 
-a. Tout candidat au Conseil d’Administration doit être membre effectif de l'association et avoir épongé toutes les dettes qu'il a contractées envers l’association. Il devra également être inscrit comme élève régulier d’un établissement scolaire de type supérieur à compter du 20 septembre de l’année académique suivant la prise de fonction au plus tard.
+a. Tout candidat au Conseil d’Administration doit être membre effectif de l'association et avoir épongé toutes les dettes qu'il a contractées envers l’association. Il devra également être inscrit comme élève régulier d’un établissement scolaire de type supérieur à compter du 30 octobre de l’année académique suivant la prise de fonction au plus tard.
 
-b. Tout candidat à un poste du Bureau de l’association devra être inscrit comme élève régulier en cours du jour à l’Université libre de Bruxelles à compter du 20 septembre de l’année académique suivant la prise de fonction au plus tard.
+b. Tout candidat à un poste du Bureau de l’association devra être inscrit comme élève régulier en cours du jour à l’Université Libre de Bruxelles à compter du 30 octobre de l’année académique suivant la prise de fonction au plus tard.
 
 c. Tout candidat à un poste du Bureau de l’association devra avoir effectué antérieurement au moins un mandat complet dans le Conseil d’Administration de l’association.
 
@@ -135,9 +135,9 @@ c. En cas d’égalité entre les candidats après le deuxième tour de scrutin,
 
 a. Est réputé démissionnaire de sa fonction dans le Conseil d’Administration, l’administrateur ayant été absent à 4 réunions consécutives sans avoir été excusé.
 
-b. Est réputé démissionnaire de sa fonction dans le Bureau de l’association, l’administrateur n’étant plus inscrit comme élève régulier en cours du jour à l’Université libre de Bruxelles. Cette mesure est d’application à compter du 20 septembre de l’année académique suivant la prise de fonction, et ce jusqu’à la prochaine Assemblée Générale ordinaire.
+b. Est réputé démissionnaire de sa fonction dans le Bureau de l’association, l’administrateur n’étant plus inscrit comme élève régulier en cours du jour à l’Université Libre de Bruxelles. Cette mesure est d’application à compter du 30 octobre de l’année académique suivant la prise de fonction, et ce jusqu’à la prochaine Assemblée Générale ordinaire.
 
-c. Est réputé démissionnaire de sa fonction dans le Conseil d’Administration, l’administrateur n’étant pas inscrit comme élève régulier d’un établissement scolaire de type supérieur. Cette mesure est d’application à compter du 20 septembre de l’année académique suivant la prise de fonction, et ce jusqu’à la prochaine Assemblée Générale ordinaire.
+c. Est réputé démissionnaire de sa fonction dans le Conseil d’Administration, l’administrateur n’étant pas inscrit comme élève régulier d’un établissement scolaire de type supérieur. Cette mesure est d’application à compter du 30 octobre de l’année académique suivant la prise de fonction, et ce jusqu’à la prochaine Assemblée Générale ordinaire.
 
 **Art. 14 :** Le membre du conseil d'administration n'étant pas déchargé à la suite d'une décision de l'Assemblée Générale se verra attribué les même droit qu'un membre adhérent, lui empêchant d'avoir le titre de membre effectif, et ce jusqu'à sa décharge lors de la prochaine Assemblée Générale.
 
