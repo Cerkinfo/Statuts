@@ -16,11 +16,11 @@ Peut être suspendu tout membre qui aurait commis des dégradations volontaires 
 
 ## Titre II : Convocation aux Assemblées Générales
 
-**Art. 5** Pour un maximum de visibilité, les convocations aux Assemblées Générales sont affichées aux valves du Département d’informatique de l’Université Libre de Bruxelles, envoyées par mailing list (cercle-informatique@cerkinfo.be), inscrites sur le forum internet du Cercle Informatique (www.cerkinfo.be) et sur la page facebook du Cercle Informatique (https://www.facebook.com/cerkinfo).
+**Art. 5** Pour un maximum de visibilité, les convocations aux Assemblées Générales sont prononcés 15 jours avant la date prévue pour celle-ci. Cette convocation contient l'ordre du jour et les éventuelles modifications de statuts envisagées. Les moyens de communication du Cercle Informatique de l'Université libre de Bruxelles seront utilisé pour transmettre la convocations (voir article TODO).
 
-## Titre III : Composition du  Conseil d’Administration
+## Titre III : Composition des entités du Cercle Informatique de l'Université libre de Bruxelles
 
-**Art. 6** Le Conseil d’Administration se compose de 19 personnes :
+**Art. 6** Le composition du Conseil d’Administration
 
 1. un président
 2. un vice-président interne
@@ -31,15 +31,19 @@ Peut être suspendu tout membre qui aurait commis des dégradations volontaires 
 7. trois délégués bar (Trésorier Bar, Stocks et Nettoyage)
 9. deux délégués FOSDEM
 10. un délégué web
-11. un délégué forum de l’emploi
-12. deux délégués bal et MTSM
+11. un délégué sport
+12. deux délégués bal
 13. un délégué propagande
 14. un délégué photo
-15. un délégué sport, culture, librex et social
+15. un délégué culture, librex et social
 16. un délégué cours
-17. un délégué hackerspace
+17. trois délégué hackerspace (Mainteneur, Vice-Mainteneur, Trésorier)
 
-## Titre IV : Des conditions et modalités d'élection du Conseil d’Administration
+**Art. 6bis** La Composition du comité de baptême
+
+**Art. 6bisbis** La Composition du comité du UrLab
+
+## Titre IV : Des conditions et modalités d'élection des entités du Cercle Informatique de l'Université libre de Bruxelles
 
 **Art. 7**
 
@@ -55,43 +59,43 @@ e. Cependant, le Conseil d’Administration sortant peut voter - à la majorité
 
 f. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidats ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
 
-g. Le candidat au poste de délégué hackerspace doit avoir été approuvé par un vote à majorité de l'assemblée générale du hackerspace. Celle-ci est constituée des membres adhérents au Cercle et n'ayant pas été exclus du hackerspace. Celle-ci est convoquée par le délégué hackerspace sortant et à défaut, par le président.
-
-h. Les 3 postes du bar seront remplis dans l'ordre de préférence suivant: Trésorier Bar, Stocks, Nettoyage. Si le nombre de barmans élus est inférieur à 3, les barmans restants se divisent le ou les postes non remplis.
-
-i. Cependant, le Conseil d’Administration sortant peut voter - à la majorité absolue des voix présentes et représentées - une dérogation pour des candidats au poste de secrétaire, vice-président interne et vice-président externe qui ne respecteraient pas les conditions édictées dans l’article 7 c) en vue de se présenter pour l’élection du Conseil d’Administration lors de l’Assemblée Générale  ordinaire. Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
-
-j. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidats ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
+g. Les candidats aux différents postes de délégué hackerspace décrit dans l'article 6 doivent avoir été approuvés par un vote à majorité de l'Assemblée Générale du hackerspace. Celle-ci est constituée des membres adhérents au Cercle et n'ayant pas été exclus du hackerspace. Celle-ci est convoquée par le mainteneur hackerspace sortant et à défaut, par le président.
 
 **Art. 7bis**
 
-a. L'élection du président de baptême du Cercle Informatique de l'Université Libre de Bruxelles doit avoir lieu endéans les deux semaines précédant la "semaine folklorique" du second quadrimestre. La date de cette élection doit être communiqué 8 jours plus tôt, par l'intermédiaire des mailing-lists et du forum du Cercle Informatique de l'Université Libre de Bruxelles. 
+a. L'élection du président de baptême du Cercle Informatique de l'Université Libre de Bruxelles doit avoir lieu endéans les deux semaines précédant l'Assemblée Générale Ordinaire du Cercle Informatique de l'Université Libre de Bruxelles. La date de cette élection doit être communiqué 8 jours plus tôt par les moyens de communication du Cercle Informatique de l'Université libre de Bruxelles (voir article TODO).
 
-b. Le candidat au poste de président de baptême doit avoir effectué une année de cooptation au baptême au sein du Cercle Informatique de l'Université Libre de Bruxelles. Il doit également avoir occupé antérieurement, durant un mandat complet au moins, un poste dans le Conseil d'Administration.
+b. Le candidat au poste de président de baptême doit avoir effectué une année de toge de baptême au sein du Cercle Informatique de l'Université Libre de Bruxelles. Il doit également avoir occupé antérieurement, durant un mandat complet au moins, un poste dans le Conseil d'Administration.
 
 c. Le membre effectif qui n’aurait pas été baptisé au Cercle Informatique de l’Université Libre de Bruxelles, ou dans tout autre Cercle reconnu comme folklorique par le Conseil d’Administration, ne dispose pas du droit de vote pour l’élection du président de baptême.
 
 d. Le membre effectif, baptisé au Cercle informatique de l'Université Libre de Bruxelles, ou dans tout autre cercle reconnu comme folklorique par le Conseil d'Administration, dispose d'une voix pondérée à 1 pour l’élection du président de baptême.
 
-e. Le membre effectif faisant partie du Comité de Baptême, des toges ouvertes du Cercle Informatique de l'Université Libre de Bruxelles ou du Conseil d'Administration dispose d'une voix pondérée à 2 pour l'élection du président de baptême. 
+e. Le membre effectif faisant partie du Comité de Baptême, des toges ouvertes du Cercle Informatique de l'Université Libre de Bruxelles ou du Conseil d'Administration baptisé reconnu comme folklorique par le Conseil d'Administration dispose d'une voix pondérée à 2 pour l'élection du président de baptême.
 
-f. Le président de baptême est élu à la majorité absolue. 
+f. Le président de baptême est élu à la majorité absolue.
 
 g. Si le président de baptême nouvellement élu satisfait aux conditions édictées dans l’article 7 b), il est éligible délégué folklore de fait.
+
+h. Tout candidats au poste de toge de baptême doit respecter les conditions de candidature en tant que toge de cercle, être étudiant à l'Université Libre de Bruxelles, ne doit pas être en BA1 info, doit avoir été accepté en tant que toge de cercle du Cercle Informatique de l'Université libre de Bruxelles et avoir vécu au moins deux bleusaille avec le Cercle Informatique du l'Université Libre de Bruxelles.
+
+i. L'élection se fait par les toges de baptême courante à la suite d'une interview.
+
+j. Tout candidat au poste de toge de cercle doit respecter les conditions de l'article 7.a, être inscrit comme élève régulier d'un établissement scolaire de type supérieur, baptisé au Cercle Informatique ou tout autre Cercle reconnu comme folklorique par le comité d'administration et avoir suivi une bleusaille au seins du Cercle Informatique de l'Université Libre de Bruxelles.
+
+k. L'exercices des dites fonctions, impliquent le respect des conditions de canditature.
+
+**Art. 7bisbis**
+
+hackerspace
 
 **Art. 8** Pour être valides, les candidatures doivent parvenir par écrit au président de cercle ou au secrétaire au plus tard 48 heures avant l’élection. Exception faite pour le poste de délégué folklore.
 
 **Art. 9** Chaque membre effectif de l'association ne peut se présenter qu'à un seul poste lors d'une même session élective. Exception faite pour le poste de délégué folklore dans le cas où le candidat à ce poste se présente avec un candidat à la présidence de baptême qui ne peut pas être désigné délégué folklore de fait.
 
-**Art. 10**
+**Art. 10** Le bulletin de vote reprendra les différents postes à pourvoir avec pour chacun d’eux le nom des candidats à ce poste. Sur chaque bulletin de vote, et pour chaque poste, se trouvera une case « Contre », une case « Abstention » et, en regard du nom de chaque candidat, une case « Pour ». Pour donner sa voix à un candidat, cochez la case « Pour » en regard de son nom, pour aller contre tous les candidats à un poste, cochez « Contre » et pour s’abstenir pour le vote de ce poste cochez la case « Abstention ». Afin que le vote pour un poste ne soit pas déclaré nul, l’électeur veillera à ne pas cocher plus de case « Pour » qu’il n’y a de délégué prévu à ce poste. Les élections se font à bulletin secret.
 
-a. L'élection du président de baptême nécessite la présence à l’Assemblée Générale  des deux tiers des membres effectifs, qu’ils soient présents ou représentés. Le président de baptême est élu à la majorité absolue.
-
-b. Le membre effectif qui n’aurait pas été baptisé au Cercle Informatique de l’Université Libre de Bruxelles, ou dans tout autre Cercle reconnu comme folklorique par le Conseil d’Administration, ne dispose pas du droit de vote pour l’élection du président de baptême.
-
-**Art. 11** Le bulletin de vote reprendra les différents postes à pourvoir avec pour chacun d’eux le nom des candidats à ce poste. Sur chaque bulletin de vote, et pour chaque poste, se trouvera une case « Contre », une case « Abstention » et, en regard du nom de chaque candidat, une case « Pour ». Pour donner sa voix à un candidat, cochez la case « Pour » en regard de son nom, pour aller contre tous les candidats à un poste, cochez « Contre » et pour s’abstenir pour le vote de ce poste cochez la case « Abstention ». Afin que le vote pour un poste ne soit pas déclaré nul, l’électeur veillera à ne pas cocher plus de case « Pour » qu’il n’y a de délégué prévu à ce poste. Les élections se font à bulletin secret.
-
-**Art. 12** Les membres du Conseil d’Administration sont élus selon les modalités suivantes :
+**Art. 11** Les membres du Conseil d’Administration sont élus selon les modalités suivantes :
 
 a. Le président de cercle, les vice-présidents, le trésorier, le secrétaire ainsi que le délégué folklore doivent recueillir la majorité absolue des voix, qu’elles soient présentes ou représentées. Au cas où aucun des candidats à un de ces postes ne réunirait la majorité absolue, il est procédé à un second tour de scrutin pour lequel ne seront gardés en lice que les deux candidats ayant obtenu le plus de voix au premier tour.
 
@@ -99,11 +103,11 @@ b. Les autres membres du Conseil d’Administration devront recueillir la majori
 
 c. En cas d’égalité entre les candidats après le deuxième tour de scrutin, le président de cercle entrant tranchera. Ce dernier est invité à consulter le Conseil d’Administration entrant avant de prendre sa décision.
 
-**Art. 13 :** Si, après l’Assemblée Générale ordinaire, des postes dans le Conseil d’Administration restent vacants, une nouvelle Assemblée Générale doit être convoquée après un délai minimum de 15 jours.
+**Art. 12 :** Si, après l’Assemblée Générale ordinaire, des postes dans le Conseil d’Administration restent vacants, une nouvelle Assemblée Générale doit être convoquée après un délai minimum de 15 jours.
 
-## Titre V : Démission et exclusion des administrateurs
+## Titre V : Démission, exclusion et décharge des administrateurs
 
-**Art. 14 :**
+**Art. 13 :**
 
 a. Est réputé démissionnaire de sa fonction dans le Conseil d’Administration, l’administrateur ayant été absent à 4 réunions consécutives sans avoir été excusé.
 
@@ -111,9 +115,11 @@ b. Est réputé démissionnaire de sa fonction dans le Bureau de l’association
 
 c. Est réputé démissionnaire de sa fonction dans le Conseil d’Administration, l’administrateur n’étant pas inscrit comme élève régulier d’un établissement scolaire de type supérieur. Cette mesure est d’application à compter du 20 septembre de l’année académique suivant la prise de fonction, et ce jusqu’à la prochaine Assemblée Générale ordinaire.
 
+**Art. 14 :** Le membre du conseil d'administration n'étant pas déchargé à la suite d'une décision de l'Assemblée Générale se verra attribué les même droit qu'un membre adhérent, lui empêchant d'avoir le titre de membre effectif, et ce jusqu'à sa décharge lors de la prochaine Assemblée Générale.
+
 ## Titre VI : Convocation du Conseil d’Administration
 
-**Art. 15 :** Le Conseil d’Administration se réunit au moins dix fois par an à l'initiative de son président. Néanmoins, une réunion peut être convoquée sans l’initiative du président de cercle si au moins trois membres l'estiment nécessaire.
+**Art. 15 :** Le Conseil d’Administration se réunit au moins dix fois par an.
 
 ## Titre VII : Des mouvements financiers
 
