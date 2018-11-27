@@ -1,6 +1,6 @@
 # Règlement d'Ordre Intérieur
 
-## Titre I : Les membres
+## Titre I : Les Membres
 
 **Art. 1** La qualité de membre de l’association implique l’adhésion totale au présent règlement d’ordre intérieur.
 
@@ -18,28 +18,50 @@ Peut être suspendu tout membre qui aurait commis des dégradations volontaires 
 
 **Art. 5** Pour un maximum de visibilité, les convocations aux Assemblées Générales sont affichées aux valves du Département d’informatique de l’Université Libre de Bruxelles, envoyées par mailing list (cercle-informatique@cerkinfo.be), inscrites sur le forum internet du Cercle Informatique (www.cerkinfo.be) et sur la page facebook du Cercle Informatique (https://www.facebook.com/cerkinfo).
 
-## Titre III : Composition du  Conseil d’Administration
+## Titre III : Composition du Conseil d’Administration et ses Entités
 
-**Art. 6** Le Conseil d’Administration se compose de 19 personnes :
+**Art. 6**
 
-1. un président
-2. un vice-président interne
-3. un vice-président externe
-4. un trésorier
-5. un secrétaire
-6. un délégué folklore
-7. trois délégués bar (Trésorier Bar, Stocks et Nettoyage)
-9. deux délégués FOSDEM
-10. un délégué web
-11. un délégué forum de l’emploi
-12. deux délégués bal et MTSM
-13. un délégué propagande
-14. un délégué photo
-15. un délégué sport, culture, librex et social
-16. un délégué cours
-17. un délégué hackerspace
+a. Le Bureau est composé des six membres suivants :
 
-## Titre IV : Des conditions et modalités d'élection du Conseil d’Administration
+1. Un **Président**, qui s´occupe de la coordination du bureau, assure la gestion du Cercle Informatique, la tenue des réunions et Assemblées Générales et la représentation du Cercle Informatique à differents évènements.
+2. Un **Vice-Président Interne**, qui assiste le Président, remplace celui-ci en cas d'absence, organise les évènements se déroulant dans les locaux du Cercle Informatique et est responsable de la gestion des locaux et des stocks de l'association.
+3. Un **Vice-Président Externe**, qui assiste le Président, est responsable de l'organisation d'évènements à caractère public tels que la JANE ou la St-V ainsi que les Thés Dansants du Cercle Informatique et est responsable des contacts entretenus avec les autres associations étudiantes.
+4. Un **Trésorier**, qui supervise la gestion des comptes et la trésorerie des activités du Cercle Informatique. Il doit présenter un bilan financier à la fin de son mandat.
+5. Un **Secrétaire**, qui est chargé de la rédaction et de la mise à disposition des procès-verbaux, des contacts avec les membres, et de la mise à jour les documents officiels du Cercle Informatique.
+6. Un **Délégué Folklore**, qui assure la gestion financière et morale des activités de baptême. Ce rôle est généralement tenu par le *Président de Baptême*, qui préside le Comité de Baptême du Cercle Informatique.
+
+b. Le Conseil d’Administration se compose du bureau défini plus haut et des délégués qui suivent :
+
+7. Trois **Délégués Bar**, qui sont responsables de la trésorerie, de la tenue, de l'approvisionnement et de l'entretien du bar du Cercle Informatique en collaboration avec le Trésorier et le Vice-Président Interne. Il est conseillé qu'un délégué bar soit nommé *Trésorier Bar*.
+8. Deux **Délégués FOSDEM**, qui organisent la participation du Cercle Informatique au FOSDEM et sont responsables de l'organisation des FOSDEMx.
+9. Un **Délégué Web**, qui est responsable du maintien du site du Cercle Informatique, mentionné à l'article 5, et donc de la mise à jour des informations partagées sur le site du cercle Informatique.
+10. Un **Délégué Sports**, qui est responsable de la participation de la Faculté d'Informatique aux Interfacs organisées par l'Université Libre de Bruxelles, ainsi qu'à tout autre activité à caractère sportif, comme les tournois d'Esport ou le 6h Cuistax.
+11. Deux **Délégués Bal et Fêtes**, qui s'occupent de l'organisation d'activités dans les locaux du Cercle Informatique en collaboration avec le bar et le Vice-Président Interne, ainsi que des évènements comme la soirée Raclette ou le Bal du Cercle Informatique.
+12. Un **Délégué Propagande**, qui est chargé de la création de banderoles et affiches pour toute activité prévue par le Cercle Informatique, ainsi que le partage des évènements via les méthodes de communications du Cercle Informatique. Il s'occupe aussi de l'édition et de l'impression de l'OS.
+13. Un **Délégué Photo**, qui est chargé de prendre des photos à chaque activité organisée par le Cercle Informatique puis de les rendre consultables.
+14. Un **Délégué Social, Culture et Librex**, qui organise des activités sociales et culturelles et promeut le principe du Libre Examen.
+15. Un **Délégué Éco-Responsable**, qui est responsable de la promotion des initiatives environnementales et de sensibilisation à la santé au sein du Cercle Informatique.
+15. Un **Délégué Cours**, qui s'occupe de la création du guide de l'étudiant et d'un pack de cours en début d'année académique pour l'accueil des BA1-INFO. Il organise la participation du Cercle Informatique au parrainage social et maintient les relations du Cercle Informatique avec les membres de la Faculté d'Informatique.
+16. Trois **Délégués UrLab**, qui représentent l'entité Hackerspace UrLab du Cercle Informatique, se répartissant les rôles de *Mainteneur*, *Vice-Mainteneur*, et *Trésorier UrLab*.
+
+**Art. 6bis**
+
+Le Comité de Baptême a pour rôle la gestion financière et morale des activités du baptême et son lien avec le Conseil d'Administration est le *Délégué Folklore*, généralement représenté par le Président de Baptême (voir l'article 7bis g) et l'article 9). Le Comité de Baptême est composé des rôles qui suivent :
+
+1. Le **Président de Baptême** (PdB), qui mène les activités du baptême et représente le Cercle Informatique lors d'évènements folkloriques. Il s'occupe de l'organisation principale des activités du baptême.
+2. Les **Toges de Baptême** (TdB), dont le Président de Baptême fait partie, sont responsables du bon déroulement des activités du baptême et du respect du rôle du Comité de Baptême. Dans une moindre mesure, elles représentent le Cercle Informatique lors d'évènements folkloriques et participent à l'organisation des activités du baptême. Il est conseillé qu'une des Toges de Baptême soit nommée *Vice-Président de Baptême* et une autre *Trésorier Baptême*. Le nombre de TdB est laissé à l'appréciation du Président de Baptême.
+3. Les **Toges de Cercle** (TdC), qui assistent les Toges de Baptême dans leurs rôles ainsi qu'au bon déroulement des activités du baptême. Le nombre de TdC est laissé à l'appréciation des TdB.
+
+**Art.6bisbis**
+
+Le Conseil d'Administration du Hackerspace UrLab est représenté par les Délégués UrLab répartis comme suit :
+
+1. Un **Mainteneur UrLab**, qui s´occupe de la coordination du Conseil d'Administration de UrLab, de la tenue des réunions et Assemblées Générales d'UrLab et assure la continuité des activités quotidiennes d'UrLab.
+2. Un **Vice-Mainteneur UrLab**, qui assite le Mainteneur dans son rôle et s'occupe de l'organisation des SmartMonday's.
+3. Un **Trésorier UrLab**, qui s'occupe de la gestion des comptes et de la trésorerie d'UrLab. Il doit rendre la comptabilité accessible à l'ensemble des membres d'UrLab, ainsi qu'assister le Trésorier du Conseil d'Administration du Cercle Informatique dans son bilan financier de fin de mandat.
+
+## Titre IV : Des Conditions et Modalités d'Élection du Conseil d’Administration
 
 **Art. 7**
 
@@ -55,29 +77,29 @@ e. Cependant, le Conseil d’Administration sortant peut voter - à la majorité
 
 f. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidats ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
 
-g. Le candidat au poste de délégué hackerspace doit avoir été approuvé par un vote à majorité de l'assemblée générale du hackerspace. Celle-ci est constituée des membres adhérents au Cercle et n'ayant pas été exclus du hackerspace. Celle-ci est convoquée par le délégué hackerspace sortant et à défaut, par le président.
-
-h. Les 3 postes du bar seront remplis dans l'ordre de préférence suivant: Trésorier Bar, Stocks, Nettoyage. Si le nombre de barmans élus est inférieur à 3, les barmans restants se divisent le ou les postes non remplis.
-
-i. Cependant, le Conseil d’Administration sortant peut voter - à la majorité absolue des voix présentes et représentées - une dérogation pour des candidats au poste de secrétaire, vice-président interne et vice-président externe qui ne respecteraient pas les conditions édictées dans l’article 7 c) en vue de se présenter pour l’élection du Conseil d’Administration lors de l’Assemblée Générale  ordinaire. Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
-
-j. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidats ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
-
 **Art. 7bis**
 
-a. L'élection du président de baptême du Cercle Informatique de l'Université Libre de Bruxelles doit avoir lieu endéans les deux semaines précédant la "semaine folklorique" du second quadrimestre. La date de cette élection doit être communiqué 8 jours plus tôt, par l'intermédiaire des mailing-lists et du forum du Cercle Informatique de l'Université Libre de Bruxelles. 
+a. L'élection du président de baptême du Cercle Informatique de l'Université Libre de Bruxelles doit avoir lieu endéans les deux semaines précédant la "semaine folklorique" du second quadrimestre. La date de cette élection doit être communiqué 8 jours plus tôt, par les moyens de communication du Cercle Informatique de l'Université Libre de Bruxelles.
 
-b. Le candidat au poste de président de baptême doit avoir effectué une année de cooptation au baptême au sein du Cercle Informatique de l'Université Libre de Bruxelles. Il doit également avoir occupé antérieurement, durant un mandat complet au moins, un poste dans le Conseil d'Administration.
+b. Le candidat au poste de président de baptême doit avoir effectué une année de Toge de Baptême au sein du Cercle Informatique de l'Université Libre de Bruxelles. Il doit également avoir occupé antérieurement, durant un mandat complet au moins, un poste dans le Conseil d'Administration.
 
 c. Le membre effectif qui n’aurait pas été baptisé au Cercle Informatique de l’Université Libre de Bruxelles, ou dans tout autre Cercle reconnu comme folklorique par le Conseil d’Administration, ne dispose pas du droit de vote pour l’élection du président de baptême.
 
-d. Le membre effectif, baptisé au Cercle informatique de l'Université Libre de Bruxelles, ou dans tout autre cercle reconnu comme folklorique par le Conseil d'Administration, dispose d'une voix pondérée à 1 pour l’élection du président de baptême.
+d. Le membre effectif, baptisé au Cercle Informatique de l'Université Libre de Bruxelles, ou dans tout autre cercle reconnu comme folklorique par le Conseil d'Administration, dispose d'une voix pondérée à 1 pour l’élection du président de baptême.
 
-e. Le membre effectif faisant partie du Comité de Baptême, des toges ouvertes du Cercle Informatique de l'Université Libre de Bruxelles ou du Conseil d'Administration dispose d'une voix pondérée à 2 pour l'élection du président de baptême. 
+e. Le membre effectif faisant partie du Comité de Baptême, des toges ouvertes du Cercle Informatique de l'Université Libre de Bruxelles ou du Conseil d'Administration dispose d'une voix pondérée à 2 pour l'élection du président de baptême.
 
-f. Le président de baptême est élu à la majorité absolue. 
+f. Le président de baptême est élu à la majorité absolue.
 
 g. Si le président de baptême nouvellement élu satisfait aux conditions édictées dans l’article 7 b), il est éligible délégué folklore de fait.
+
+**Art. 7bisbis**
+
+a. Les candidats aux différents postes de Délégué UrLab doivent avoir été approuvés par un vote à majorité de l'Assemblée Générale d'UrLab. Celle-ci est convoquée par le Mainteneur UrLab sortant et à défaut, par le Président du Cercle Informatique.
+
+b. Le candidat au poste de Mainteneur UrLab doit avoir occupé antérieurement, durant un mandat complet au moins, un poste dans le Conseil d'Administration d'UrLab.
+
+c. Cependant, le Conseil d'Administration d'UrLab peut voter une dérogation pour un candidat au poste de Mainteneur UrLab qui ne respecterait pas les conditions édictées dans l’article 7bisbis b).
 
 **Art. 8** Pour être valides, les candidatures doivent parvenir par écrit au président de cercle ou au secrétaire au plus tard 48 heures avant l’élection. Exception faite pour le poste de délégué folklore.
 
@@ -101,7 +123,7 @@ c. En cas d’égalité entre les candidats après le deuxième tour de scrutin,
 
 **Art. 13 :** Si, après l’Assemblée Générale ordinaire, des postes dans le Conseil d’Administration restent vacants, une nouvelle Assemblée Générale doit être convoquée après un délai minimum de 15 jours.
 
-## Titre V : Démission et exclusion des administrateurs
+## Titre V : Démission et Exclusion des Administrateurs
 
 **Art. 14 :**
 
@@ -115,7 +137,7 @@ c. Est réputé démissionnaire de sa fonction dans le Conseil d’Administratio
 
 **Art. 15 :** Le Conseil d’Administration se réunit au moins dix fois par an à l'initiative de son président. Néanmoins, une réunion peut être convoquée sans l’initiative du président de cercle si au moins trois membres l'estiment nécessaire.
 
-## Titre VII : Des mouvements financiers
+## Titre VII : Des Mouvements Financiers
 
 **Art. 16 :** Le remboursement de toute dépense par le trésorier est subordonné à la justification de cette dépense et à la production d'une note de frais de préférence sous forme de facture, sauf cas exceptionnel autorisé au préalable par le Conseil d’Administration.
 
