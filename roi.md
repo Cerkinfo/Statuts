@@ -18,7 +18,7 @@ Peut être suspendu tout membre qui aurait commis des dégradations volontaires 
 
 **Art. 5** Pour un maximum de visibilité, les convocations aux Assemblées Générales sont affichées aux valves du Département d’informatique de l’Université Libre de Bruxelles, envoyées par mailing list (cercle-informatique@cerkinfo.be), inscrites sur le forum internet du Cercle Informatique (www.cerkinfo.be) et sur la page facebook du Cercle Informatique (https://www.facebook.com/cerkinfo).
 
-## Titre III : Composition du Conseil d’Administration et ses Entités
+## Titre III : Composition des Entités du Cercle Informatique de l'Université Libre de Bruxelles
 
 **Art. 6**
 
@@ -38,12 +38,12 @@ b. Le Conseil d’Administration se compose du bureau défini plus haut et des d
 9. Un **Délégué Web**, qui est responsable du maintien du site du Cercle Informatique, mentionné à l'article 5, et donc de la mise à jour des informations partagées sur le site du cercle Informatique.
 10. Un **Délégué Sports**, qui est responsable de la participation de la Faculté d'Informatique aux Interfacs organisées par l'Université Libre de Bruxelles, ainsi qu'à tout autre activité à caractère sportif, comme les tournois d'Esport ou le 6h Cuistax.
 11. Deux **Délégués Bal et Fêtes**, qui s'occupent de l'organisation d'activités dans les locaux du Cercle Informatique en collaboration avec le bar et le Vice-Président Interne, ainsi que des évènements comme la soirée Raclette ou le Bal du Cercle Informatique.
-12. Un **Délégué Propagande**, qui est chargé de la création de banderoles et affiches pour toute activité prévue par le Cercle Informatique, ainsi que le partage des évènements via les méthodes de communications du Cercle Informatique. Il s'occupe aussi de l'édition et de l'impression de l'OS.
+12. Un **Délégué Propagande**, qui est chargé de la création de banderoles et affiches pour toute activité prévue par le Cercle Informatique, ainsi que le partage des évènements via les moyens de communication du Cercle Informatique définis dans l'article TODO. Il s'occupe aussi de l'édition et de l'impression de l'OS.
 13. Un **Délégué Photo**, qui est chargé de prendre des photos à chaque activité organisée par le Cercle Informatique puis de les rendre consultables.
 14. Un **Délégué Social, Culture et Librex**, qui organise des activités sociales et culturelles et promeut le principe du Libre Examen.
 15. Un **Délégué Éco-Responsable**, qui est responsable de la promotion des initiatives environnementales et de sensibilisation à la santé au sein du Cercle Informatique.
 15. Un **Délégué Cours**, qui s'occupe de la création du guide de l'étudiant et d'un pack de cours en début d'année académique pour l'accueil des BA1-INFO. Il organise la participation du Cercle Informatique au parrainage social et maintient les relations du Cercle Informatique avec les membres de la Faculté d'Informatique.
-16. Trois **Délégués UrLab**, qui représentent l'entité Hackerspace UrLab du Cercle Informatique, se répartissant les rôles de *Mainteneur*, *Vice-Mainteneur*, et *Trésorier UrLab*.
+16. Trois **Délégués UrLab**, qui représentent le Hackerspace 'UrLab' du Cercle Informatique, se répartissant les rôles de *Mainteneur*, *Vice-Mainteneur*, et *Trésorier UrLab*.
 
 **Art. 6bis**
 
@@ -73,7 +73,7 @@ c. Tout candidat à un poste du Bureau de l’association devra avoir effectué 
 
 d. En outre, tout candidat au poste de président de cercle doit avoir occupé antérieurement, durant un mandat complet au moins, un poste dans le Bureau. En outre, il doit suivre ou avoir suivi des cours dispensés par le Département Informatique de l'Université Libre de Bruxelles. Enfin, il doit avoir terminé avec succès une année de deuxième bachelier.
 
-e. Cependant, le Conseil d’Administration sortant peut voter - à la majorité absolue des voix présentes et représentées - une dérogation pour des candidats au poste de secrétaire, vice-président interne et vice-président externe qui ne respecteraient pas les conditions édictées dans l’article 7 c) en vue de se présenter pour l’élection du Conseil d’Administration lors de l’Assemblée Générale  ordinaire. Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
+e. Cependant, le Conseil d’Administration sortant peut voter - à la majorité absolue des voix présentes et représentées - une dérogation pour des candidats au poste de secrétaire, vice-président interne et vice-président externe qui ne respecteraient pas les conditions édictées dans l’article 7 c) en vue de se présenter pour l’élection du Conseil d’Administration lors de l’Assemblée Générale ordinaire. Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
 
 f. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidats ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
 
