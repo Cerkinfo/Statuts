@@ -89,9 +89,7 @@ d. Le membre effectif, baptisé au Cercle Informatique de l'Université libre de
 
 e. Le membre effectif faisant partie du Comité de Baptême du Cercle Informatique de l'Université libre de Bruxelles ou du Conseil d'Administration et répondant au critères définis à l'article 7bis d), dispose d'une voix pondérée à 2 pour l'élection du Président de Baptême.
 
-a. L'élection du Président de Baptême du Cercle Informatique de l'Université Libre de Bruxelles doit avoir lieu endéans les deux semaines précédant l'Assemblée Générale Ordinaire du Cercle Informatique de l'Université Libre de Bruxelles. La date de cette élection doit être communiqué 8 jours plus tôt par les moyens de communication du Cercle Informatique de l'Université libre de Bruxelles (voir article TODO).
-
-b. Le candidat au poste de Président de Baptême doit avoir effectué une année de Toge de Baptême au sein du Cercle Informatique de l'Université Libre de Bruxelles. Il doit également avoir occupé antérieurement, durant un mandat complet au moins, un poste dans le Conseil d'Administration.
+f. Le président de baptême est élu à la majorité absolue.
 
 h. Tout candidat au poste de Toge de Baptême doit respecter les conditions de candidature de la Toge de Cercle, définis dans l'article 7bis k), être inscrit comme élève régulier en cours du jour à l’Université libre de Bruxelles à compter du 20 septembre de l’année académique suivant la prise de fonction au plus tard sans être en BA1-INFO, doit avoir été accepté en tant que Toge de Cercle du Cercle Informatique de l'Université libre de Bruxelles et avoir suivi un minimum de deux bleusailles avec le Cercle Informatique du l'Université libre de Bruxelles.
 
