@@ -79,7 +79,7 @@ f. Si des élections pour des postes du Bureau de l’association doivent avoir 
 
 **Art. 7bis**
 
-a. L'élection du Président de Baptême du Cercle Informatique de l'Université libre de Bruxelles doit avoir lieu endéans les deux semaines précédant la "semaine folklorique" du second quadrimestre. La date de cette élection doit être communiqué 8 jours plus tôt, par les moyens de communication du Cercle Informatique de l'Université libre de Bruxelles, définis dans l'article 18 b).
+a. L'élection du Président de Baptême du Cercle Informatique de l'Université libre de Bruxelles doit avoir lieu endéans les deux semaines précédant l'Assemblée Générale du second quadrimestre. La date de cette élection doit être communiqué 8 jours plus tôt, par les moyens de communication du Cercle Informatique de l'Université libre de Bruxelles, définis dans l'article 18 b).
 
 b. Le candidat au poste de Président de Baptême doit avoir effectué une année de Toge de Baptême au sein du Cercle Informatique de l'Université libre de Bruxelles. Il doit également avoir occupé antérieurement, durant un mandat complet au moins, un poste dans le Conseil d'Administration.
 
