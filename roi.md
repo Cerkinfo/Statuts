@@ -28,7 +28,7 @@ a. Le Bureau est composé des six membres suivants :
 2. Un **Vice-Président Interne**, qui assiste le Président de Cercle, remplace celui-ci en cas d'absence, organise les évènements se déroulant dans les locaux du Cercle Informatique et est responsable de la gestion des locaux et des stocks de l'association.
 3. Un **Vice-Président Externe**, qui assiste le Président de Cercle, est responsable de l'organisation d'évènements à caractère public tels que la JANE ou la St-V ainsi que les Thés Dansants du Cercle Informatique et est responsable des contacts entretenus avec les autres associations étudiantes.
 4. Un **Trésorier**, qui supervise la gestion des comptes et la trésorerie des activités du Cercle Informatique. Il doit présenter un bilan financier à la fin de son mandat.
-5. Un **Secrétaire**, qui est chargé de la rédaction et de la mise à disposition des procès-verbaux, des contacts avec les membres, et de la mise à jour les documents officiels du Cercle Informatique.
+5. Un **Secrétaire**, qui est chargé de la rédaction et de la mise à disposition des procès-verbaux, des contacts avec les membres, et de la mise à jour des documents officiels du Cercle Informatique.
 6. Un **Délégué Folklore**, qui assure la gestion financière et morale des activités de baptême. Ce rôle est généralement tenu par le *Président de Baptême*, qui préside le Comité de Baptême du Cercle Informatique.
 
 b. Le Conseil d’Administration se compose du bureau défini plus haut et des délégués qui suivent :
