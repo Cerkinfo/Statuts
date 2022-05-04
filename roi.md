@@ -42,9 +42,10 @@ b. Le Conseil d’Administration se compose du bureau défini plus haut et des d
 13. Un **Délégué Photo**, qui est chargé de prendre des photos à chaque activité organisée par le Cercle Informatique puis de les rendre consultables.
 14. Un **Délégué Social, Culture et Librex**, qui organise des activités sociales et culturelles et promeut le principe du Libre Examen.
 15. Un **Délégué Éco-Responsable**, qui est responsable de la promotion des initiatives environnementales et de sensibilisation à la santé au sein du Cercle Informatique.
-15. Un **Délégué Cours**, qui s'occupe de la création du guide de l'étudiant et d'un pack de cours en début d'année académique pour l'accueil des BA1-INFO. Il organise la participation du Cercle Informatique au parrainage social et maintient les relations du Cercle Informatique avec les membres du Département d'Informatique de l'Université libre de Bruxelles.
-16. Trois **Délégués UrLab**, qui représentent le Hackerspace 'UrLab' du Cercle Informatique, se répartissant les rôles de *Mainteneur*, *Vice-Mainteneur*, et *Trésorier UrLab*.
-17. Un **Délégué DocHub**, qui est responsable de la gestion du serveur et du site en général, en plus d'en faire sa promotion auprès des étudiants en informatique et des autres facultés de l'ULB.
+16. Un **Délégué Egalité et Inclusivité**, chargé d'assurer le respect de l'inclusivité, l'égalité, ainsi que les valeurs, principes, et protocoles prévus par la charte au sein du cercle.
+17. Un **Délégué Cours**, qui s'occupe de la création du guide de l'étudiant et d'un pack de cours en début d'année académique pour l'accueil des BA1-INFO. Il organise la participation du Cercle Informatique au parrainage social et maintient les relations du Cercle Informatique avec les membres du Département d'Informatique de l'Université libre de Bruxelles.
+18. Trois **Délégués UrLab**, qui représentent le Hackerspace 'UrLab' du Cercle Informatique, se répartissant les rôles de *Mainteneur*, *Vice-Mainteneur*, et *Trésorier UrLab*.
+19. Un **Délégué DocHub**, qui est responsable de la gestion du serveur et du site en général, en plus d'en faire sa promotion auprès des étudiants en informatique et des autres facultés de l'ULB.
 
 **Art. 6bis**
 
