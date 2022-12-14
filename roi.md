@@ -33,18 +33,19 @@ a. Le Bureau est composé des six membres suivants :
 
 b. Le Conseil d’Administration se compose du bureau défini plus haut et des délégués qui suivent :
 
-7. Trois **Délégués Bar**, qui sont responsables de la trésorerie, de la tenue, de l'approvisionnement et de l'entretien du bar du Cercle Informatique en collaboration avec le Trésorier et le Vice-Président Interne. Il est conseillé qu'un délégué bar soit nommé *Trésorier Bar*.
+7. Quatre **Délégués Bar**, qui sont responsables de la trésorerie, de la tenue, de l'approvisionnement et de l'entretien du bar du Cercle Informatique en collaboration avec le Trésorier et le Vice-Président Interne. Il est conseillé qu'un délégué bar soit nommé *Trésorier Bar*.
 8. Deux **Délégués FOSDEM**, qui organisent la participation du Cercle Informatique au FOSDEM et sont responsables de l'organisation des FOSDEMx.
-9. Un **Délégué Web**, qui est responsable du maintien du site du Cercle Informatique, mentionné à l'article 5, et donc de la mise à jour des informations partagées sur le site du cercle Informatique.
+9. Un **Délégué Web**, qui est responsable du maintien du site du Cercle Informatique, mentionné à l'article 5, et donc de la mise à jour des informations partagées sur le site du Cercle Informatique. Il sera responsable de la gestion financière des serveurs et des noms de domaine du cercle, de UrLaB et de DocHub, en travaillant de paire avec les délégués nommés au point article 6b 17) et 18). Il n'imposera pas de publication ou de supression sur ces 2 derniers sans l'approbation d'une majorité des voix, pour toutes modificiations, lors d'une réunion de l'Organe d'Administration ou l'approbation unanime des délégués concernés. Il réfèrera le coût mensuel du maintiens de ces sites, au Trésorier sous forme d'une note de frais, en chaque fin de mois. 
 10. Un **Délégué Sports**, qui est responsable de la participation du Cercle Informatique aux Interfacs organisées par l'Université libre de Bruxelles, ainsi qu'à tout autre activité à caractère sportif, comme les tournois d'Esport ou le 6h Cuistax.
 11. Deux **Délégués Bal et Fêtes**, qui s'occupent de l'organisation d'activités dans les locaux du Cercle Informatique en collaboration avec le bar et le Vice-Président Interne, ainsi que des évènements comme la soirée Raclette ou le Bal du Cercle Informatique.
 12. Un **Délégué Propagande**, qui est chargé de la création de banderoles et affiches pour toute activité prévue par le Cercle Informatique, ainsi que le partage des évènements via les moyens de communication du Cercle Informatique définis dans l'article 18 b) et c). Il s'occupe aussi de l'édition et de l'impression de l'OS.
 13. Un **Délégué Photo**, qui est chargé de prendre des photos à chaque activité organisée par le Cercle Informatique puis de les rendre consultables.
 14. Un **Délégué Social, Culture et Librex**, qui organise des activités sociales et culturelles et promeut le principe du Libre Examen.
 15. Un **Délégué Éco-Responsable**, qui est responsable de la promotion des initiatives environnementales et de sensibilisation à la santé au sein du Cercle Informatique.
-15. Un **Délégué Cours**, qui s'occupe de la création du guide de l'étudiant et d'un pack de cours en début d'année académique pour l'accueil des BA1-INFO. Il organise la participation du Cercle Informatique au parrainage social et maintient les relations du Cercle Informatique avec les membres du Département d'Informatique de l'Université libre de Bruxelles.
-16. Trois **Délégués UrLab**, qui représentent le Hackerspace 'UrLab' du Cercle Informatique, se répartissant les rôles de *Mainteneur*, *Vice-Mainteneur*, et *Trésorier UrLab*.
-17. Un **Délégué DocHub**, qui est responsable de la gestion du serveur et du site en général, en plus d'en faire sa promotion auprès des étudiants en informatique et des autres facultés de l'ULB.
+16. Un **Délégué Cours**, qui s'occupe de la création du guide de l'étudiant et d'un pack de cours en début d'année académique pour l'accueil des BA1-INFO. Il organise la participation du Cercle Informatique au parrainage social et maintient les relations du Cercle Informatique avec les membres du Département d'Informatique de l'Université libre de Bruxelles.
+17. Un **Délégué Égalité et Inclusivité**, chargé d'assurer le respect de l'inclusivité, l'égalité, ainsi que les valeurs, principes et protocoles prévus par la charte au sein du cercle.
+18. Trois **Délégués UrLab**, qui représentent le Hackerspace 'UrLab' du Cercle Informatique, se répartissant les rôles de *Mainteneur*, *Vice-Mainteneur*, et *Trésorier UrLab*.
+19. Un **Délégué DocHub**, qui est responsable de la gestion du serveur et du site en général, en plus d'en faire sa promotion auprès des étudiants en informatique et des autres facultés de l'ULB.
 
 **Art. 6bis**
 
@@ -88,9 +89,11 @@ c. Le membre effectif qui n’aurait pas été baptisé au Cercle Informatique d
 
 d. Le membre effectif, baptisé au Cercle Informatique de l'Université libre de Bruxelles, ou dans tout autre cercle reconnu comme folklorique par le Conseil d'Administration, dispose d'une voix pondérée à 1 pour l’élection du Président de Baptême.
 
-e. Le membre effectif faisant partie du Comité de Baptême du Cercle Informatique de l'Université libre de Bruxelles ou du Conseil d'Administration et répondant au critères définis à l'article 7bis d), dispose d'une voix pondérée à 2 pour l'élection du Président de Baptême.
+e. Le membre effectif ayant le rôle de Toge de Cercle (TdC) du Cercle Informatique de l'Univeristé Libre de Bruxelles et répondant au critères définis à l'article 7bis d), dispose d'une voix pondérée à 2 pour l'élection du Président de Baptême.
 
-f. Le président de baptême est élu à la majorité absolue.
+f. Le membre effectif ayant le rôle de Toge de Baptême (TdB) du Cercle Informatique de l'Université Libre de Bruxelles et répondant au critères définis à l'article 7bis d), dispose d'une voix pondérée à 3 pour l'élection du Président de Baptême.
+
+g. Le président de baptême est élu à la majorité absolue.
 
 h. Tout candidat au poste de Toge de Baptême doit respecter les conditions de candidature de la Toge de Cercle, définis dans l'article 7bis k), être inscrit comme élève régulier en cours du jour à l’Université libre de Bruxelles à compter du 20 septembre de l’année académique suivant la prise de fonction au plus tard sans être en BA1-INFO, doit avoir été accepté en tant que Toge de Cercle du Cercle Informatique de l'Université libre de Bruxelles et avoir suivi un minimum de deux bleusailles avec le Cercle Informatique du l'Université libre de Bruxelles.
 
