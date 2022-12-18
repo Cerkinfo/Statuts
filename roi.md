@@ -35,7 +35,7 @@ b. Le Conseil d’Administration se compose du bureau défini plus haut et des d
 
 7. Trois **Délégué·e·s Bar**, qui sont responsables de la trésorerie, de la tenue, de l'approvisionnement et de l'entretien du bar du Cercle Informatique en collaboration avec le/la Trésorier·e et le/la Vice-Président·e Interne. Il est conseillé qu'un·e délégué·e bar soit nommé·e *Trésorier·e Bar*.
 8. Deux **Délégué·e·s FOSDEM**, qui organisent la participation du Cercle Informatique au FOSDEM et sont responsables de l'organisation des FOSDEMx.
-9. Un·e **Délégué·e Web**, qui est responsable du maintien du site du Cercle Informatique, mentionné à l'article 5, et donc de la mise à jour des informations partagées sur le site du cercle Informatique.
+9. Un·e **Délégué·e Web**, qui est responsable du maintien du site du Cercle Informatique, mentionné à l'article 5, et donc de la mise à jour des informations partagées sur le site du Cercle Informatique. Il sera responsable de la gestion financière des serveurs et des noms de domaine du cercle, de UrLaB et de DocHub, en travaillant de paire avec les délégués nommés au point article 6b 17) et 18). Il n'imposera pas de publication ou de supression sur ces 2 derniers sans l'approbation d'une majorité des voix, pour toutes modificiations, lors d'une réunion de l'Organe d'Administration ou l'approbation unanime des délégués concernés. Il réfèrera le coût mensuel du maintiens de ces sites, au Trésorier sous forme d'une note de frais, en chaque fin de mois.
 10. Un·e **Délégué·e Sports**, qui est responsable de la participation du Cercle Informatique aux Interfacs organisées par l'Université libre de Bruxelles, ainsi qu'à tout autre activité à caractère sportif, comme les tournois d'Esport ou le 6h Cuistax.
 11. Deux **Délégué·e·s Bal et Fêtes**, qui s'occupent de l'organisation d'activités dans les locaux du Cercle Informatique en collaboration avec le bar et le/la Vice-Président·e Interne, ainsi que des évènements comme la soirée Raclette ou le Bal du Cercle Informatique.
 12. Un·e **Délégué·e Propagande**, qui est chargé·e de la création de banderoles et affiches pour toute activité prévue par le Cercle Informatique, ainsi que le partage des évènements via les moyens de communication du Cercle Informatique définis dans l'article 18 b) et c). Iel s'occupe aussi de l'édition et de l'impression de l'OS.
@@ -89,9 +89,9 @@ c. Le/la membre effecti·f·ve qui n’aurait pas été baptisé·e au Cercle In
 
 d. Le/la membre effecti·f·ve, baptisé·e au Cercle Informatique de l'Université libre de Bruxelles, ou dans tout autre cercle reconnu comme folklorique par le Conseil d'Administration, dispose d'une voix pondérée à 1 pour l’élection du Président de Baptême.
 
-e. Le/la membre effecti·f·ve ayant le rôle de Toge de Cercle (TdC) du Cercle Informatique de l'Université libre de Bruxelles, dispose d'une voix pondérée à 2 pour l'élection du Président de Baptême.
+e. Le/la membre effecti·f·ve ayant le rôle de Toge de Cercle (TdC) du Cercle Informatique de l'Univeristé Libre de Bruxelles et répondant au critères définis à l'article 7bis d), dispose d'une voix pondérée à 2 pour l'élection du Président de Baptême.
 
-f. Le/la membre effecti·f·ve ayant le rôle de Toge de Batpême (TdB) du Cercle Informatique de l'Université libre de Bruxelles, dispose d'une voix pondérée à 3 pour l'élection du Président de Baptême.
+f. Le/la membre effecti·f·ve ayant le rôle de Toge de Baptême (TdB) du Cercle Informatique de l'Université Libre de Bruxelles et répondant au critères définis à l'article 7bis d), dispose d'une voix pondérée à 3 pour l'élection du Président de Baptême.
 
 g. Le/la Président·e de baptême est élu à la majorité absolue.
 

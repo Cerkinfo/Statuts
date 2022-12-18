@@ -85,7 +85,7 @@ c. Il ne peut réclamer ou requérir ni relevé ou reddition de compte, ni appos
 
 **Art. 15 :** L’Assemblée Générale est composée des membres effectifs et des membres représentés. Les membres adhérents et les membres d’honneur doivent y être explicitement invités. L’assemblée est présidée par le président du Conseil d’Administration ou, en cas d’absence justifiée du président, par un membre du bureau.
 
-**Art. 16 :** L’Assemblée Générale est convoquée par le Conseil d’Administration, ou sur demande d’un cinquième des membres de l’association, huit jours au moins avant la date fixée pour ladite assemblée.
+**Art. 16 :** L’Assemblée Générale est convoquée par le Conseil d’Administration, ou sur demande d’un cinquième des membres de l’association, quinze jours au moins avant la date fixée pour ladite assemblée.
 
 **Art. 17 :**
 a. L’ordre du jour est mentionné dans la convocation et est fixé par le Conseil d’Administration. Un point doit être porté à l’ordre du jour s’il est signé par au moins un vingtième des membres effectifs. L’assemblée peut délibérer valablement sur des points qui ne sont pas mentionnés à l’ordre du jour pour autant que ceux-ci recueillent deux tiers des voix, qu’elles soient présentes ou représentées, sauf dans les cas et pour les objets à propos desquels la loi ou les statuts en disposent autrement.
@@ -228,7 +228,7 @@ c) Un mandataire censeur ne peut pas entraver le mandataire trésorier dans sa g
 d) Le mandataire censeur du trésorier est le président.
 
 **Art. 37 :**
-a. L’exercice social commence le 20 Avril de chaque année et finit le 19 Avril de l’année suivante. Exceptionellement, l'année de la création (2010), l'exercice social commence le 12 Mai et finit le 19 Avril 2011. Le compte de l'exercice écoulé et le budget du prochain exercice sont soumis à l'Assemblée Générale le jour de l'AG élective.
+a. L’exercice social commence le 20 Avril de chaque année et finit le 19 Avril de l’année suivante. Exceptionellement, l'année de la création (2010), l'exercice social commence le 12 Mai et finit le 19 Avril 2011. Dans le cas d'une Assemblée Générale élective fixée à une date ultérieure à la date du début de l'exercice social, une nouvelle date doit être votée à la majorité des voix du Conseil d'Administration lors de cette AG. Une demande de prolongation de la date finale de l'exercice social doit également être soumis à un vote à la majorité, lors d'une réunion de l'Organe d'Administration antérieure au 19 Avril, par les mandataires trésorier ou censeur uniquement, se rapporter à l'article 36bis a), b) et c). Dans ce cas, les mandataires trésoriers concernés devront faire mention de cette prolongation lors de leur bilan moral de fin de mandat. Le compte de l'exercice écoulé et le budget du prochain exercice sont soumis à l'Assemblée Générale le jour de l'AG élective.
 
 b. L’Assemblée Générale peut, en cas de refus du bilan financier, nommer deux vérificateurs aux comptes qui lui feront rapport.
 
