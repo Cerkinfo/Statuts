@@ -33,11 +33,11 @@ a. Le Bureau est composé des six membres suivants :
 
 b. Le Conseil d’Administration se compose du bureau défini plus haut et des délégué·e·s qui suivent :
 
-7. Trois **Délégué·e·s Bar**, qui sont responsables de la trésorerie, de la tenue, de l'approvisionnement et de l'entretien du bar du Cercle Informatique en collaboration avec le/la Trésorier·e et le/la Vice-Président·e Interne. Il est conseillé qu'un·e délégué·e bar soit nommé·e *Trésorier·e Bar*.
+7. Quatre **Délégué·e·s Bar**, qui sont responsables de la trésorerie, de la tenue, de l'approvisionnement et de l'entretien du bar du Cercle Informatique en collaboration avec le/la Trésorier·e et le/la Vice-Président·e Interne. Il est demandé qu'un·e délégué·e bar soit nommé·e *Trésorier·e Bar* et qu'il ai déjà fait au moins 1 an de comité au sein du Cercle Informatique, de préférence en temps que Barman·aid.
 8. Deux **Délégué·e·s FOSDEM**, qui organisent la participation du Cercle Informatique au FOSDEM et sont responsables de l'organisation des FOSDEMx.
 9. Un·e **Délégué·e Web**, qui est responsable du maintien du site du Cercle Informatique, mentionné à l'article 5, et donc de la mise à jour des informations partagées sur le site du Cercle Informatique. Il sera responsable de la gestion financière des serveurs et des noms de domaine du cercle, de UrLaB et de DocHub, en travaillant de paire avec les délégués nommés au point article 6b 17) et 18). Il n'imposera pas de publication ou de supression sur ces 2 derniers sans l'approbation d'une majorité des voix, pour toutes modificiations, lors d'une réunion de l'Organe d'Administration ou l'approbation unanime des délégués concernés. Il réfèrera le coût mensuel du maintiens de ces sites, au Trésorier sous forme d'une note de frais, en chaque fin de mois.
 10. Un·e **Délégué·e Sports**, qui est responsable de la participation du Cercle Informatique aux Interfacs organisées par l'Université libre de Bruxelles, ainsi qu'à tout autre activité à caractère sportif, comme les tournois d'Esport ou le 6h Cuistax.
-11. Deux **Délégué·e·s Bal et Fêtes**, qui s'occupent de l'organisation d'activités dans les locaux du Cercle Informatique en collaboration avec le bar et le/la Vice-Président·e Interne, ainsi que des évènements comme la soirée Raclette ou le Bal du Cercle Informatique.
+11. Deux **Délégué·e·s Bal et Fêtes**, qui s'occupent de l'organisation d'activités dans les locaux du Cercle Informatique en collaboration avec le bar et le/la Vice-Président·e Interne, ainsi que des évènements comme la soirée Raclette ou le Bal du Cercle Informatique. Il est demandé que au moins un·e des deux délégué·e ai déjà fait 1 an de comité au préalable au sein d'un Cercle de l'ULB.
 12. Un·e **Délégué·e Propagande**, qui est chargé·e de la création de banderoles et affiches pour toute activité prévue par le Cercle Informatique, ainsi que le partage des évènements via les moyens de communication du Cercle Informatique définis dans l'article 18 b) et c). Iel s'occupe aussi de l'édition et de l'impression de l'OS.
 13. Un·e **Délégué·e Photo**, qui est chargé·e de prendre des photos à chaque activité organisée par le Cercle Informatique puis de les rendre consultables.
 14. Un·e **Délégué·e Social, Culture et Librex**, qui organise des activités sociales et culturelles et promeut le principe du Libre Examen.
@@ -46,6 +46,7 @@ b. Le Conseil d’Administration se compose du bureau défini plus haut et des d
 17. Un·e **Délégué·e Cours**, qui s'occupe de la création du guide de l'étudiant et d'un pack de cours en début d'année académique pour l'accueil des BA1-INFO. Iel organise la participation du Cercle Informatique au parrainage social et maintient les relations du Cercle Informatique avec les membres du Département d'Informatique de l'Université libre de Bruxelles.
 18. Trois **Délégué·e·s UrLab**, qui représentent le Hackerspace 'UrLab' du Cercle Informatique, se répartissant les rôles de *Mainten·eur·euse*, *Vice-Mainten·eur·euse*, et *Trésorier·e UrLab*.
 19. Un·e **Délégué·e DocHub**, qui est responsable de la gestion du serveur et du site en général, en plus d'en faire sa promotion auprès des étudiant·e·s en informatique et des autres facultés de l'ULB.
+20. Un·e **Délégué·e Cantus**, qui est responsable de la communication entre la Guilde Gates et le cercle concernant ses événements, d'éventuelles demandes subsidiaires et la promotion du folklore chantant au sein du cercle. Il est conseillé que le·a délégué·e soit le·a Senior·e pour l'année à venir.
 
 **Art. 6bis**
 
@@ -75,9 +76,11 @@ c. Tout·e candidat·e à un poste du Bureau de l’association devra avoir effe
 
 d. En outre, tout·e candidat·e au poste de Président·e de Cercle doit avoir occupé antérieurement, durant un mandat complet au moins, un poste dans le Bureau. En outre, iel doit suivre ou avoir suivi des cours dispensés par le Département Informatique de l'Université libre de Bruxelles. Enfin, iel doit avoir terminé avec succès une année de deuxième bachelier.
 
-e. Cependant, le Conseil d’Administration sortant peut voter - à la majorité absolue des voix présentes et représentées - une dérogation pour des candidat·e·s au poste de Secrétaire, Vice-Président·e Interne et Vice-Président·e Externe qui ne respecteraient pas les conditions édictées dans l’article 7 c) en vue de se présenter pour l’élection du Conseil d’Administration lors de l’Assemblée Générale ordinaire. Aucune dérogation n'est prévue pour les candidat·e·s ne respectant pas les conditions édictées dans l'article 7 a) et b).
+e. Tout·e candidat·e au poste de Président·e de Cercle doit être baptisé·e au Cercle Informatique de l'Université libre de Bruxelles, ou dans tout autre cercle reconnu comme folklorique par le Conseil d'Administration et ne peut cumuluer son poste avec la Toge de Baptême durant toute la période de son mandat. En outre, il pourra porter une Toge de Cercle a titre honorifique sans distinction spécifique.
 
-f. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidat·e·s ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidat·e·s ne respectant pas les conditions édictées dans l'article 7 a) et b).
+f. Cependant, le Conseil d’Administration sortant peut voter - à la majorité absolue des voix présentes et représentées - une dérogation pour des candidat·e·s au poste de Secrétaire, Vice-Président·e Interne et Vice-Président·e Externe qui ne respecteraient pas les conditions édictées dans l’article 7 c) en vue de se présenter pour l’élection du Conseil d’Administration lors de l’Assemblée Générale ordinaire. Aucune dérogation n'est prévue pour les candidat·e·s ne respectant pas les conditions édictées dans l'article 7 a) et b).
+
+g. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidat·e·s ne respectant pas les conditions édictées dans l’article 7 c) d) f) ou g). Aucune dérogation n'est prévue pour les candidat·e·s ne respectant pas les conditions édictées dans l'article 7 a) b) et e).
 
 **Art. 7bis**
 
@@ -131,7 +134,7 @@ c. En cas d’égalité entre les candidat·e·s après le deuxième tour de scr
 
 **Art. 12** Si, après l’Assemblée Générale ordinaire, des postes dans le Conseil d’Administration restent vacants, une nouvelle Assemblée Générale doit être convoquée après un délai minimum de 15 jours.
 
-## Titre V : Démission, Exclusion et Décharge des Administrateurs
+## Titre V : Démission, Exclusion et Décharge des Administrateurs et des Entités du Cercle Informatique de l'Université Libre de Bruxelles
 
 **Art. 13**
 
@@ -140,6 +143,18 @@ a. Est réputé·e démissionnaire de sa fonction dans le Conseil d’Administra
 b. Est réputé·e démissionnaire de sa fonction dans le Bureau de l’association, l’administrateur·trice n’étant plus inscrit·e comme élève régulier en cours du jour à l’Université Libre de Bruxelles. Cette mesure est d’application à compter du 30 octobre de l’année académique suivant la prise de fonction, et ce jusqu’à la prochaine Assemblée Générale ordinaire.
 
 c. Est réputé·e démissionnaire de sa fonction dans le Conseil d’Administration, l’administrateur·rice n’étant pas inscrit·e comme élève régulier d’un établissement scolaire de type supérieur. Cette mesure est d’application à compter du 30 octobre de l’année académique suivant la prise de fonction, et ce jusqu’à la prochaine Assemblée Générale ordinaire.
+
+**Art. 13bis**
+
+a. Dans le cas d'une plainte officielle ou d'une volonté justifiée émanent des autoritées folklorique ou interne au cercle, le Comité de Baptême peut décider à la majorité absolue d'exclure une Toge de Cercle. Ses attributs folklorique propre à son rôle lui seront retiré et iel devra attendre l'an prochain pour se représenter et passer une nouvelle interview, avec l'accord au préalable du CdB entrant.
+
+b. Dans le cas d'une plainte officielle ou d'une volonté justifiée émanent des autoritées folklorique ou interne au cercle, le Comité de Baptême peut décider à l'unanimité d'exclure une Toge de Baptême. Ses attributs folklorique propre à son rôle lui seront retiré et iel devra attendre l'an prochain pour se représenter et passer une nouvelle interview, avec l'accord au préalable du CdB entrant.
+
+c. La Toge de Baptême ou Toge de Cercle exlu·e, pourra demander connaitre les détails de son exclusion et faire appel par lettre écrite envoyé au Président de Baptême et/ou au Président de Cercle dans les 15 jours suivant l'annonce officielle de son exclusion. Le Comité de Baptême devra se réunir lors d'une réunion a huis clos et statuer définitivement après lecture de la lettre. La décision devra lui être communiqué endéans les 8 jours après la réunion.
+
+d. Le Président de Baptême et le Président de Cercle peuvent décider à raison justifié au Comité de Baptême de suspendre une Toge de Baptême ou une Toge de Cercle de ses fonction instantanément. La suspension devra suivre une décision officielle tel l'Art 13bis a) ou b).
+
+e. La Toge de Baptême ou Toge de Cercle exclu·e, ne peut prétendre au remboursement de son "pass guindaille" après le début de la bleusaille.
 
 **Art. 14 :** Le/la membre du conseil d'administration n'étant pas déchargé·e à la suite d'une décision de l'Assemblée Générale se verra attribuer les même droit qu'un membre adhérent, lui empêchant d'avoir le titre de membre effectif, et ce jusqu'à sa décharge lors de la prochaine Assemblée Générale.
 
