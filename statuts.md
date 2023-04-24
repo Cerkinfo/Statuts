@@ -227,6 +227,8 @@ c) Un mandataire censeur ne peut pas entraver le mandataire trésorier dans sa g
 
 d) Le mandataire censeur du trésorier est le président.
 
+e) le mandataire censeur du trésorier de baptême est le président de baptême.
+
 **Art. 37 :**
 a. L’exercice social commence le 20 Avril de chaque année et finit le 19 Avril de l’année suivante. Exceptionellement, l'année de la création (2010), l'exercice social commence le 12 Mai et finit le 19 Avril 2011. Dans le cas d'une Assemblée Générale élective fixée à une date ultérieure à la date du début de l'exercice social, une nouvelle date doit être votée à la majorité des voix du Conseil d'Administration lors de cette AG. Une demande de prolongation de la date finale de l'exercice social doit également être soumis à un vote à la majorité, lors d'une réunion de l'Organe d'Administration antérieure au 19 Avril, par les mandataires trésorier ou censeur uniquement, se rapporter à l'article 36bis a), b) et c). Dans ce cas, les mandataires trésoriers concernés devront faire mention de cette prolongation lors de leur bilan moral de fin de mandat. Le compte de l'exercice écoulé et le budget du prochain exercice sont soumis à l'Assemblée Générale le jour de l'AG élective.
 
